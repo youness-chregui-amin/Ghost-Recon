@@ -124,26 +124,20 @@ python3 -m ghostrecon.view_results <encrypted_results.json>
 
 **Youness Chregui Amin** - [GitHub](https://github.com/youness-chregui-amin)
 
-
-
-
----
-
 <p align="center">
 
   <a href="https://youness-chregui-amin.github.io/my-website/" target="_blank" title="my website">
-    <img src="https://img.icons8.com/ios-filled/50/000000/internet--v1.png" alt="Website Icon" width="32" height="32" />
+    <img src="https://img.icons8.com/ios/50/000000/internet--v1.png" alt="Website Icon" width="32" height="32" />
   </a>
 
   <a href="https://www.instagram.com/ycherguiamin?igsh=bm8wZmltaGtkenJy" target="_blank" title="Instagram">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram Icon" width="32" height="32" />
+    <img src="https://img.icons8.com/ios/50/000000/instagram-new.png" alt="Instagram Icon" width="32" height="32" />
   </a>
 
   <a href="https://x.com/CherguiAmin?t=R6__iLUje2XyJkgaHxI0nw&s=09" target="_blank" title="X (Twitter)">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="Twitter Icon" width="32" height="32" />
+    <img src="https://img.icons8.com/ios/50/000000/twitterx.png" alt="Twitter Icon" width="32" height="32" />
   </a>
 
 </p>
-
 
 # Ghost-Recon
