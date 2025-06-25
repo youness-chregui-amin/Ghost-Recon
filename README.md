@@ -98,9 +98,4 @@ python3 -m ghostrecon.view_results <encrypted_results.json>
 
 **Youness Chregui Amin** - [GitHub](https://github.com/youness-chregui-amin)
 
----
-
-## License
-
-*Add your license information here (e.g., MIT, GPL, etc.)* # Ghost-Recon
 # Ghost-Recon
