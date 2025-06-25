@@ -123,10 +123,25 @@ python3 -m ghostrecon.view_results <encrypted_results.json>
 ## Author
 
 **Youness Chregui Amin** - [GitHub](https://github.com/youness-chregui-amin)
-my website :  <p align="center">
-  <a href="https://youness-chregui-amin.github.io/my-website/" target="_blank">
-    <img src="https://i.pinimg.com/736x/11/f2/fd/11f2fd963a2028fa67ce38ffe0e92bc5.jpg" alt="Icon" width="50" height="50"/>
+
+
+---
+
+<p align="center">
+
+  <a href="https://youness-chregui-amin.github.io/my-website/" target="_blank" title="موقعي الشخصي">
+    <img src="https://github.com/youness-chregui-amin/Ghost-Recon/blob/main/icon-readme/photo_2025-06-25_21-50-31.jpg?raw=true" alt="Website Icon" width="32" height="32" />
   </a>
+
+  <a href="https://www.instagram.com/ycherguiamin?igsh=bm8wZmltaGtkenJy" target="_blank" title="Instagram">
+    <img src="https://github.com/youness-chregui-amin/Ghost-Recon/blob/main/icon-readme/photo_2025-06-25_21-50-33.jpg?raw=true" alt="Instagram Icon" width="32" height="32" />
+  </a>
+
+  <a href="https://x.com/CherguiAmin?t=R6__iLUje2XyJkgaHxI0nw&s=09" target="_blank" title="Twitter (X)">
+    <img src="https://github.com/youness-chregui-amin/Ghost-Recon/blob/main/icon-readme/photo_2025-06-25_21-50-35.jpg?raw=true" alt="Twitter Icon" width="32" height="32" />
+  </a>
+
 </p>
+
 
 # Ghost-Recon
