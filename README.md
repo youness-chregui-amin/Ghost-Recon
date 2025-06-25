@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/youness-chregui-amin/Ghost-Recon/blob/main/images-readme/image-readme-0.png?raw=true" alt="GhostRecon CLI" width="700"/>
+  <img src="https://github.com/youness-chregui-amin/Ghost-Recon/blob/main/images-readme/image-readme-0.png?raw=true" alt="GhostRecon CLI" width="100"/>
 </p>
 
 
