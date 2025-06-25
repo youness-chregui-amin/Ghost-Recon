@@ -20,6 +20,16 @@
 
 **GhostRecon** is a stealthy, intelligent Python CLI tool for passive reconnaissance (OSINT) and ethical hacking. Designed for security professionals and researchers, GhostRecon enables you to map, analyze, and assess target infrastructure without direct contact, using a modular, AI-powered approach. It features both passive OSINT and stealthy attack modes, with encrypted result storage and a polished, user-friendly interface.
 
+
+
+<p align="center">
+  <img src="https://github.com/youness-chregui-amin/Ghost-Recon/blob/main/images-readme/image-readme-0.png?raw=true" alt="GhostRecon CLI" width="700"/>
+</p>
+
+
+
+
+
 ---
 
 ## Key Features
